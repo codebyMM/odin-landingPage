@@ -1,7 +1,7 @@
 # Project: Landing Page By Odin Project
 
 ## Assignment
-![screentshots](images/screenshot/Screenshot%202025-01-24%20at%2001-17-51%20Odin%20Project%20-%20Landing%20Page.png);
+![screentshots](images/screenshot/01.png)
 
 ## SCREENSHOTS
 ![screenshots](images/screenshot/Screenshot%202025-01-24%20at%2001-17-51%20Odin%20Project%20-%20Landing%20Page.png)
